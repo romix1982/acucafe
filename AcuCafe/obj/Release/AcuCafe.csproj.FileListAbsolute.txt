@@ -1,0 +1,13 @@
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Release\AcuCafe.exe.config
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Release\AcuCafe.exe
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Release\AcuCafe.pdb
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Release\AcuCafeCore.dll
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Release\AcuCafeCore.pdb
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Release\AcuCafe.csprojAssemblyReference.cache
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Release\AcuCafe.Form1.resources
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Release\AcuCafe.Properties.Resources.resources
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Release\AcuCafe.csproj.GenerateResource.cache
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Release\AcuCafe.csproj.CoreCompileInputs.cache
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Release\AcuCafe.csproj.CopyComplete
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Release\AcuCafe.exe
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Release\AcuCafe.pdb

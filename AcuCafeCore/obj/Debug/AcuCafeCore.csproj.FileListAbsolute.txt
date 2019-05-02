@@ -1,0 +1,5 @@
+C:\Users\Romix\source\repos\AcuCafe\AcuCafeCore\bin\Debug\AcuCafeCore.dll
+C:\Users\Romix\source\repos\AcuCafe\AcuCafeCore\bin\Debug\AcuCafeCore.pdb
+C:\Users\Romix\source\repos\AcuCafe\AcuCafeCore\obj\Debug\AcuCafeCore.csproj.CoreCompileInputs.cache
+C:\Users\Romix\source\repos\AcuCafe\AcuCafeCore\obj\Debug\AcuCafeCore.dll
+C:\Users\Romix\source\repos\AcuCafe\AcuCafeCore\obj\Debug\AcuCafeCore.pdb

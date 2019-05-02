@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcuCafe", "AcuCafe\AcuCafe.csproj", "{E63221A9-09A9-4B78-AD4E-FC2E74FE7876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcuCafeCore", "AcuCafeCore\AcuCafeCore.csproj", "{DB668A82-0EE0-4527-BBA9-F99759C74B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcuCafeTest", "AcuCafeTest\AcuCafeTest.csproj", "{EFACF9C1-89C2-4438-B495-77A03C515F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63221A9-09A9-4B78-AD4E-FC2E74FE7876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63221A9-09A9-4B78-AD4E-FC2E74FE7876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63221A9-09A9-4B78-AD4E-FC2E74FE7876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63221A9-09A9-4B78-AD4E-FC2E74FE7876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB668A82-0EE0-4527-BBA9-F99759C74B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB668A82-0EE0-4527-BBA9-F99759C74B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB668A82-0EE0-4527-BBA9-F99759C74B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB668A82-0EE0-4527-BBA9-F99759C74B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFACF9C1-89C2-4438-B495-77A03C515F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFACF9C1-89C2-4438-B495-77A03C515F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFACF9C1-89C2-4438-B495-77A03C515F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFACF9C1-89C2-4438-B495-77A03C515F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ED28D76-7101-461A-8E99-8AB466382A1F}
+	EndGlobalSection
+EndGlobal

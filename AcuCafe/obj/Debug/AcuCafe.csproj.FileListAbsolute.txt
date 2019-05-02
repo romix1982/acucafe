@@ -1,0 +1,13 @@
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Debug\AcuCafe.exe.config
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Debug\AcuCafe.exe
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Debug\AcuCafe.pdb
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Debug\AcuCafe.csprojAssemblyReference.cache
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Debug\AcuCafe.Properties.Resources.resources
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Debug\AcuCafe.csproj.GenerateResource.cache
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Debug\AcuCafe.csproj.CoreCompileInputs.cache
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Debug\AcuCafe.exe
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Debug\AcuCafe.pdb
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Debug\AcuCafe.Form1.resources
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Debug\AcuCafeCore.dll
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\bin\Debug\AcuCafeCore.pdb
+C:\Users\Romix\source\repos\AcuCafe\AcuCafe\obj\Debug\AcuCafe.csproj.CopyComplete

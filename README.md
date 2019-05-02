@@ -1,6 +1,6 @@
 # AcuCafe Project
 
-Techical test
+Technical test
 
 ## Problem
 

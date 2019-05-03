@@ -190,12 +190,15 @@ public static IDrink ProcessCoofeeAddIns(IDrink drinkOrder, bool hasMilk, bool h
 
 You can run a winForm project and see the AcuCafe in accion. You can order a drink and add all the toppings that you want. There is a seccion with Barista Information and other with the Order Information including the total amount.
 
-
+![alt text](https://github.com/romix1982/acucafe/blob/master/AcuView.png)
 
 
 ## AcuCafe Test
 You can find a Test project that include all the unit test of the solution.
 
-##Refecences
+## Refecences
+
+* [Design Patterns](https://books.google.co.uk/books?id=6oHuKQe3TjQC&lpg=PP1&dq=inauthor%3A%22Erich%20Gamma%22&hl=es&pg=PP1#v=onepage&q&f=false) - Elements of Reusable Object-Oriented Software written by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+
 
 

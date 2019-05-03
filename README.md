@@ -21,9 +21,20 @@ In order to redesign the system, I considered the following point:
 * Could be new types of add-ins
 * Could be new add-ins rules
 
-### Chosen Design
 
-Thinking about the first three points of the list, I  have decided to implement  Abstract factory pattern. This pattern helps us to create a factory of factories. So I have built a Coffee factory which creates different types of coffee and a Tea Factory which creates different types of tea. With this approach, I find easier to add a new coffee or tea.
+
+
+
+## Deployment
+Into the repository, you can find the full solution. This solution has three projects: 
+* AcuCafe (View Model)
+* AcuCore (Logical Model)
+* AcuTest (Unit Test)
+
+## AcuCafeCore
+
+Thinking about the first three prerequisites of the list, I  have decided to implement  Abstract factory pattern. This pattern helps us to create a factory of factories. So I have built a Coffee factory which creates different types of coffee and a Tea Factory which creates different types of tea. With this approach, I find easier to add a new coffee or tea.
+
 
 #### Abstract Factory Code
 Common interface for all drinks
@@ -99,7 +110,7 @@ About the add-ins for the drink and about some drinks rules, I have decided to i
 
 
 ### Decorator Pattern code
-
+This is an abstract decorator class AddinDecorator implementing the IDrink interface and having oDrink object as its instance variable.
 
 ```
  public abstract class AddinDecorator : IDrink
@@ -127,7 +138,7 @@ About the add-ins for the drink and about some drinks rules, I have decided to i
     }
 ```
 
-
+This is the code of MilkDecorator cconcrete class implementing AddinDecorator
 
 ```
 public class MilkDecorator: AddinDecorator
@@ -140,6 +151,8 @@ public class MilkDecorator: AddinDecorator
         }
     }
 ```
+
+This is the method that manages the addIns coffee rules. Exists other method in AcuCafeAddInsRules class that manages the Tea rules like IceTea without Milk.
 
 ```
 public static IDrink ProcessCoofeeAddIns(IDrink drinkOrder, bool hasMilk, bool hasSugar, bool hasChocolate)
@@ -173,6 +186,16 @@ public static IDrink ProcessCoofeeAddIns(IDrink drinkOrder, bool hasMilk, bool h
             
         }
 ```
+## AcuCafe View
 
-## Running the tests
+You can run a winForm project and see the AcuCafe in accion. You can order a drink and add all the toppings that you want. There is a seccion with Barista Information and other with the Order Information including the total amount.
+
+
+
+
+## AcuCafe Test
+You can find a Test project that include all the unit test of the solution.
+
+##Refecences
+
 
